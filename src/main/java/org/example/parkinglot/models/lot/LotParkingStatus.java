@@ -1,4 +1,4 @@
-package org.example.parkinglot.bo;
+package org.example.parkinglot.models.lot;
 
 public enum LotParkingStatus {
     AVAILABLE, OCCUPIED;

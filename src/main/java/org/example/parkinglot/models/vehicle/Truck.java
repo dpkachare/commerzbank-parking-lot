@@ -1,8 +1,10 @@
-package org.example.parkinglot.bo;
+package org.example.parkinglot.models.vehicle;
+
+import org.example.parkinglot.models.Size;
 
 public class Truck extends AbstractVehicle {
 
-    protected Truck(String id) {
+    public Truck(String id) {
         super(id);
     }
 

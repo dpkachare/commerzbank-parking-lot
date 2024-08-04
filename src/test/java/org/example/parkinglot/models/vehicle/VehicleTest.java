@@ -1,5 +1,6 @@
-package org.example.parkinglot.bo;
+package org.example.parkinglot.models.vehicle;
 
+import org.example.parkinglot.models.Size;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

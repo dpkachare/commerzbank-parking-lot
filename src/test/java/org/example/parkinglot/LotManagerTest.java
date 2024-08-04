@@ -1,7 +1,8 @@
-package org.example.parkinglot.models;
+package org.example.parkinglot;
 
 import org.example.parkinglot.LotManager;
 import org.example.parkinglot.LotTracker;
+import org.example.parkinglot.models.Size;
 import org.example.parkinglot.models.lot.Ticket;
 import org.example.parkinglot.models.vehicle.Car;
 import org.junit.jupiter.api.Test;

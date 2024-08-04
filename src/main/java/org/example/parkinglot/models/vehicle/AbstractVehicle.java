@@ -1,9 +1,8 @@
-package org.example.parkinglot.bo;
+package org.example.parkinglot.models.vehicle;
 
 import java.util.Objects;
 
 public abstract class AbstractVehicle implements Vehicle {
-
     private final String id;
 
     protected AbstractVehicle(String id) {
